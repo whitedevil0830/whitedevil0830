@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyansu Mishra</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India.</h3>
 
+<img align="right" alt="Coding" src="![image](https://github.com/whitedevil0830/whitedevil0830/assets/92387184/afa54417-7e8c-45fa-b075-13e69208f32c)
+" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitedevil0830&label=Profile%20views&color=0e75b6&style=flat" alt="whitedevil0830" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitedevil0830" alt="whitedevil0830" /></a> </p>

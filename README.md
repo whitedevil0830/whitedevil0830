@@ -1,4 +1,4 @@
-<img align="centre" alt="bg-logo" height="600" src="https://github.com/whitedevil0830/whitedevil0830/blob/main/github-bg-final%20(animated).gif">
+<img align="centre" alt="bg-logo" height="500" src="https://github.com/whitedevil0830/whitedevil0830/blob/main/github-bg-final%20(animated).gif">
 <h1 align="center">Hi 👋, I'm Priyansu Mishra</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India.</h3>
 

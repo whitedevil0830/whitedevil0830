@@ -8,11 +8,8 @@
 <img alt = "Brain_img" width = "200" align ="right" src = "https://github.com/whitedevil0830/whitedevil0830/blob/main/github-profile-gif.gif">
 
 - 🌱 I’m currently learning **Deep Learning and other ML frameworks**
-
-- 📫 How to reach me: **abpmishra08@gmail.com**
-
+- 📫 How to reach me: **abpmishra08@gmail.com** , [Linkedin](https://www.linkedin.com/in/priyansu-mishra-b50066208/)
 - 📄 Know about my experiences: [Link](https://drive.google.com/file/d/1-_vUxbwY6UDph9rJz4n4_uBYbc8LBsFy/view?usp=sharing)
-
 - ⚡ Motivational fact: **If you think they are ahead of you, or they are behind you in your career's race then remember only one thing in life that IT'S NEVER LATE to start. So, you are always at the right place its just that you are in your timeline...**
 
 <h3 align="left">Connect with me:</h3>
